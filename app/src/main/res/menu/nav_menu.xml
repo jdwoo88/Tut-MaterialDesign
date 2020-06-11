@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="STORAGE">
+        <menu>
+            <item
+                android:icon="@drawable/ic_baseline_folder_24"
+                android:title="My Files" />
+            <item
+                android:icon="@drawable/ic_baseline_people_24"
+                android:title="Shared" />
+            <item
+                android:icon="@drawable/ic_baseline_star_24"
+                android:title="Starred" />
+            <item
+                android:icon="@drawable/ic_baseline_access_time_24"
+                android:title="Recent" />
+            <item
+                android:icon="@drawable/ic_baseline_backup_24"
+                android:title="Backup" />
+        </menu>
+    </item>
+    <item android:title="APP">
+        <menu>
+            <item
+                android:icon="@drawable/ic_baseline_settings_applications_24"
+                android:title="Settings" />
+            <item
+                android:icon="@drawable/ic_baseline_power_settings_new_24"
+                android:title="Log out" />
+        </menu>
+    </item>
+</menu>
